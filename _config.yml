@@ -2,4 +2,14 @@ title: "James Baker's Blog"
 
 timezone: Europe/London
 
-theme: minima
+remote_theme: "jekyll/minima@1e8a445"
+
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: auto
+  social_links:
+    - title: Home
+      icon: house
+      url: "jamesbaker.online"
