@@ -5,3 +5,7 @@ timezone: Europe/London
 theme: minima
 minima:
   skin: dark
+  social_links:
+    - title: Home
+      icon: house
+      url: "jamesbaker.online"
