@@ -9,3 +9,4 @@ plugins:
 
 minima:
   skin: auto
+  show_excerpts: true
