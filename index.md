@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: James Baker's Blog
 ---
 
-# Hello World 👋
+Musings on stuff.
