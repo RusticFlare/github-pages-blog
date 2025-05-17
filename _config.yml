@@ -4,4 +4,4 @@ timezone: Europe/London
 
 theme: minima
 minima:
-  skin: auto
+  skin: dark
