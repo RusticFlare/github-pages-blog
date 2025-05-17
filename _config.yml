@@ -9,7 +9,3 @@ plugins:
 
 minima:
   skin: auto
-  social_links:
-    - title: Home
-      icon: house
-      url: "jamesbaker.online"
