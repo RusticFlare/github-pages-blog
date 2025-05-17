@@ -2,7 +2,7 @@ title: "James Baker's Blog"
 
 timezone: Europe/London
 
-remote_theme: jekyll/minima
+theme: minima
 minima:
   skin: dark
   social_links:
