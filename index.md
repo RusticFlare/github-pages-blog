@@ -1,5 +1,1 @@
----
-title: James Baker's Blog
----
-
-Musings on stuff.
+✍️ Musings on stuff.
