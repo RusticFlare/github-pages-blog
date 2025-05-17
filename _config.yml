@@ -1,3 +1,7 @@
-theme: minima
-timezone: Europe/London
 title: "James Baker's Blog"
+
+timezone: Europe/London
+
+theme: minima
+minima:
+  skin: auto
