@@ -1,5 +1,5 @@
 ---
 title: Me
-redirect_to:
-  - http://jamesbaker.online
+permalink: /me
+redirect_to: http://jamesbaker.online
 ---
