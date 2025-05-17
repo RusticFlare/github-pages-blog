@@ -11,3 +11,5 @@ plugins:
 minima:
   skin: auto
   show_excerpts: true
+  nav_pages:
+    - me.md
