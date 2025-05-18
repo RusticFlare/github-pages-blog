@@ -14,3 +14,10 @@ minima:
   show_excerpts: true
   nav_pages:
     - me.md
+  social_links:
+    - title: View on GitHub
+      icon: github
+      url: "https://github.com/RusticFlare/github-pages-blog"
+    - title: My Photos on Vero
+      icon: camera-retro
+      url: "https://vero.co/rusticflare"
