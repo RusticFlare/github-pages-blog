@@ -32,7 +32,7 @@ more adverts they can show you, the more money they make.
 
 I don't want how I spend my time to be decided by an algotithm.
 
-I don't want to be see adverts intermingled with my families and friends photos.
+I don't want to be see adverts intermingled with my friends and families photos.
 
 I don't want to have to keep scrolling, just in case the next thing I'm shown in intersting.
 
