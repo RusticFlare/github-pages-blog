@@ -2,7 +2,6 @@
 title: "👋 My First Blog Post"
 date: 2025-05-21
 author: James Baker
-modified_date: 2025-05-17
 ---
 
 Hi, I'm James! Welcome to my blog.
@@ -16,7 +15,9 @@ A few years ago I was using:
 | -------------- | ------------------ | ------------------ |
 | Facebook       | Facebook Messenger | YouTube            |
 | Instagram      | WhatsApp           | Reddit             |
- 
+
+### The Problems With Social Media
+
 Over time, using these apps started to feel _unpleasant_. Maybe you've felt that way as well?
 They began to introduce features that I didn't want:
 
@@ -41,4 +42,9 @@ About 5/6 years ago I deleted my Facebook account. Then, 2 years ago, I stopped 
 Instagram and opened an [account on Vero](https://vero.co/rusticflare). I can't remember the
 last time I browsed Reddit (I do still use it when searching for answers to questions).
 
+### Group Chats: The New Social Media
 
+About a year ago, I noticed something different start to happen in my group chats: people
+started sharing posts from social media. 
+
+Previously, I'd used group chats to organise meeting up with friends and family.
