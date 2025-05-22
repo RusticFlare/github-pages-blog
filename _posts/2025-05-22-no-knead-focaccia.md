@@ -38,7 +38,7 @@ An easy way to make delicious bread.
 ## Dough
 
 1. Add everything from the [Bread Mixture ingredients table](#bread-mixture) into a mixing bowl.
-2. Using a wooden spoon: incorporate it all together as you stir until you have a _shaggy mess_.
+2. Using a wooden spoon: stir until it's all incorporated into a _shaggy mess_.
 3. Drizzle the _shaggy mess_ with a dash of **Extra Virgin Olive Oil**.
 4. Seal the bowl with clingfilm.
 5. Place in the fridge for at least 18 hours.
