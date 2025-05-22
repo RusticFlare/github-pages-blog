@@ -18,3 +18,5 @@ minima:
     - title: View on GitHub
       icon: github
       url: "https://github.com/RusticFlare/github-pages-blog"
+
+permalink: pretty
