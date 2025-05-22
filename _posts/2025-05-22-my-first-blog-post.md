@@ -1,6 +1,6 @@
 ---
 title: "👋 My First Blog Post"
-date: 2025-05-21
+date: 2025-05-22
 author: James Baker
 ---
 
