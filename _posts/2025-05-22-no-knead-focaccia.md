@@ -1,5 +1,5 @@
 ---
-title: "👋 No Knead Focaccia"
+title: "🍞 No Knead Focaccia"
 date: 2025-05-22 22:15:00 +1
 author: James Baker
 tags:
@@ -24,7 +24,6 @@ tags:
 
 ## Toppings
 
-> [!NOTE]  
 > You can put whatever you want on your focaccia. This is my "go-to".
 
 | Ingredient     |
@@ -44,7 +43,6 @@ tags:
 
 ## Rise
 
-> [!NOTE]  
 > Do this about 2.5 hours before you want to eat your bread.
 
 1. Using your hands, coat a deep baking tray in **Extra Virgin Olive Oil**.
