@@ -38,7 +38,7 @@ I don't want to have to keep scrolling, just in case the next thing I'm shown in
 
 There has to be a better way!
 
-About 5/6 years ago I deleted my Facebook account. Then, 2 years ago, I stopped posting to
+About six years ago I deleted my Facebook account. Then, two years ago, I stopped posting to
 Instagram and opened [an account on Vero](https://vero.co/rusticflare). I can't remember the
 last time I browsed Reddit (I do still use it when searching for answers to questions).
 
