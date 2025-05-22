@@ -6,6 +6,8 @@ tags:
   - recipe
 ---
 
+An easy way to make delicious bread.
+
 **Total time to make:** ~20 Hours
 
 **Total time you're doing anything:** ~30 Minutes
