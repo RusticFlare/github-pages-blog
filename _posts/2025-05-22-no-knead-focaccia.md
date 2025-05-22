@@ -8,7 +8,7 @@ tags:
 
 **Total time to make:** ~20 Hours
 
-**Total time you doing anything:** ~30 Minutes
+**Total time you're doing anything:** ~30 Minutes
 
 # Ingredients
 
