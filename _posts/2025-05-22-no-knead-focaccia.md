@@ -70,7 +70,7 @@ An easy way to make delicious bread.
 1. Take the bread out the oven when it has a nice golden-brown colour.
 2. Take it out the tray and place on a cooling rack.
 3. Sprinkle it with some flakey salt.
-4. Leave for 20-30 minutes before eating.
+4. Leave to cool for 20-30 minutes before eating.
 5. Enjoy!
 
 # Storage and Reheating
