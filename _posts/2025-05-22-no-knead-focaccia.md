@@ -2,8 +2,6 @@
 title: "🍞 No Knead Focaccia"
 date: 2025-05-22 22:15:00 +1
 author: James Baker
-tags:
-  - recipe
 ---
 
 An easy way to make delicious bread.
