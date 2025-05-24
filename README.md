@@ -1,13 +1,6 @@
 # GitHub Pages Blog
 
-My [Jekyll] blog deployed with [GitHub Pages].
+My [Jekyll](https://jekyllrb.com/) blog with the [Minima](https://github.com/jekyll/minima) theme. Deployed
+with [GitHub Pages](https://pages.github.com/).
 
-Made with this [GitHub Pages Course].
-
-<!-- Links -->
-
-[Jekyll]: https://jekyllrb.com/
-
-[GitHub Pages]: https://pages.github.com/
-
-[GitHub Pages Course]: https://github.com/skills/github-pages
+Made through this [GitHub Pages Course](https://github.com/skills/github-pages).
