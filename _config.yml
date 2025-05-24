@@ -24,3 +24,6 @@ minima:
       url: "https://github.com/RusticFlare/github-pages-blog"
 
 permalink: pretty
+
+exclude:
+  - LICENSE
