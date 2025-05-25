@@ -18,6 +18,7 @@ minima:
   show_excerpts: true
   nav_pages:
     - me.md
+    - portfolio.md
   social_links:
     - title: View on GitHub
       icon: github
