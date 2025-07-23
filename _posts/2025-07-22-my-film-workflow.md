@@ -39,9 +39,11 @@ them lab.
    An example (where the film wasn't designed for artificial light):
 
    [//]: # (@formatter:off)
+
    |                 Lab Scan                 |                     Lightroom Export                     | 
    |:----------------------------------------:|:--------------------------------------------------------:|
    | ![Lab scan](/assets/images/lab-scan.jpg) | ![Lightroom export](/assets/images/lightroom-export.jpg) |
+   
    [//]: # (@formatter:on)
 
 3. I set the date for when I took each photo (my notebook helps)
