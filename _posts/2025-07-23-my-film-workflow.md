@@ -2,7 +2,7 @@
 title: "🎞️ My Film Workflow"
 date: 2025-07-23 09:00:00 +1
 author: James Baker
-modified_date: 2025-07-23 18:30:00 +1
+modified_date: 2025-08-01 18:40:00 +1
 ---
 
 What I do with a roll of film after I've finished taking pictures.
@@ -27,7 +27,7 @@ for the developed film to be posted back to me.
 ## Editing
 
 I use [Lightroom](https://www.adobe.com/uk/products/photoshop-lightroom.html) to edit the JPEG files I get back from
-them lab.
+the lab.
 
 1. Import all the photos from each roll of film into a Lightroom album
 2. Edits:
