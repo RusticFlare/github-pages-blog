@@ -25,8 +25,7 @@ I delete most of my photos at this stage, and only edit and export the ones I wa
 ## Storage
 
 I export my edited photos from Lightroom into [Apple Photos](https://www.apple.com/uk/ios/photos/). Most photos just sit
-on my camera roll, but I'll "favourite" some photos, and use albums if the photos are from a particular event or
-holiday.
+on my camera roll, but I'll "favourite" some of them, and use albums if they're from a particular event or holiday.
 
 ## Getting Prints
 
