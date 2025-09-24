@@ -6,7 +6,7 @@ description: >
 
 timezone: Europe/London
 
-remote_theme: "jekyll/minima@1fe0fbf"
+remote_theme: "jekyll/minima@b3385fe"
 
 plugins:
   - jekyll-feed
@@ -28,3 +28,4 @@ permalink: pretty
 
 exclude:
   - LICENSE
+
