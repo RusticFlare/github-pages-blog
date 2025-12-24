@@ -56,8 +56,7 @@ An easy way to make delicious bread.
 ## Dress and Bake
 
 1. Preheat your oven to 220°C.
-2. The dough should now have spread out to cover the surface of the baking tray. Otherwise, gently ease it into the
-   corners.
+2. The dough should now have spread out to cover the surface of the baking tray. Otherwise, gently ease it into the corners.
 3. Drizzle **Extra Virgin Olive Oil** over the dough.
 4. Using your fingers: create deep dimples across the entire surface of the dough.
 5. Sprinkle or nestle your [toppings](#toppings) into the dimpled dough.

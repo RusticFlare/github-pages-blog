@@ -13,8 +13,7 @@ How I take, edit and store digital photos.
 
 ## Backup
 
-[Amazon Photos](https://www.amazon.co.uk/photos) offers unlimited photo storage (including RAW files), as long as you
-have Amazon Prime. I use it to back up every photo I take.
+[Amazon Photos](https://www.amazon.co.uk/photos) offers unlimited photo storage (including RAW files), as long as you have Amazon Prime. I use it to back up every photo I take.
 
 ## Editing
 
@@ -24,8 +23,7 @@ I delete most of my photos at this stage, and only edit and export the ones I wa
 
 ## Storage
 
-I export my edited photos from Lightroom into [Apple Photos](https://www.apple.com/uk/ios/photos/). Most photos just sit
-on my camera roll, but I'll "favourite" some of them, and use albums if they're from a particular event or holiday.
+I export my edited photos from Lightroom into [Apple Photos](https://www.apple.com/uk/ios/photos/). Most photos just sit on my camera roll, but I'll "favourite" some of them, and use albums if they're from a particular event or holiday.
 
 ## Getting Prints
 
