@@ -1,0 +1,18 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+/* Justify post text */
+.page-content p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Don't justify code */
+.page-content code,
+.page-content pre {
+  text-align: left;
+}
