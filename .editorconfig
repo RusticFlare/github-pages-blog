@@ -54,6 +54,7 @@ ij_html_space_inside_empty_tag = false
 ij_html_text_wrap = normal
 
 [{*.markdown,*.md}]
+max_line_length = off
 ij_markdown_force_one_space_after_blockquote_symbol = true
 ij_markdown_force_one_space_after_header_symbol = true
 ij_markdown_force_one_space_after_list_bullet = true
@@ -68,8 +69,8 @@ ij_markdown_max_lines_between_paragraphs = 1
 ij_markdown_min_lines_around_block_elements = 1
 ij_markdown_min_lines_around_header = 1
 ij_markdown_min_lines_between_paragraphs = 1
-ij_markdown_wrap_text_if_long = true
-ij_markdown_wrap_text_inside_blockquotes = true
+ij_markdown_wrap_text_if_long = false
+ij_markdown_wrap_text_inside_blockquotes = false
 
 [{*.yaml,*.yml}]
 indent_size = 2
