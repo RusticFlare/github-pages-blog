@@ -6,7 +6,9 @@
   "minima/initialize";
 
 /* Justify post text */
-.page-content p {
+.page-content p,
+.page-content li,
+.site-footer p {
   text-align: justify;
   hyphens: auto;
 }
