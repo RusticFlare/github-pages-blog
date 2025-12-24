@@ -5,6 +5,7 @@ description: >
   ✍️ A personal blog, where you can read whatever I feel like writing.
 
 timezone: Europe/London
+lang: en-GB
 
 remote_theme: "jekyll/minima@bf9ef98"
 
