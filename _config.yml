@@ -1,8 +1,8 @@
-title: "James Baker's Blog"
+title: "James Baker"
 author:
   name: James Baker
 description: >
-  A personal blog, where you can read whatever I feel like writing ✍️
+  A personal site, where you can read whatever I feel like writing ✍️
 
 timezone: Europe/London
 lang: en-GB
@@ -18,7 +18,7 @@ minima:
   skin: classic
   show_excerpts: true
   nav_pages:
-    - me.md
+    - now.md
   social_links:
     - title: View on GitHub
       icon: github
