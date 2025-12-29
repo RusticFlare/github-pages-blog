@@ -1,8 +1,9 @@
 ---
 title: Now
 permalink: /now
-modified_date: 2025-12-29 21:30:00
 ---
+
+> **Last updated:** `2025-12-29`
 
 What I'm up to:
 
