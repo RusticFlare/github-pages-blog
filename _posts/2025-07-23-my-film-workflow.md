@@ -75,6 +75,6 @@ Each sleeve is labeled in the same way as the digital album (`number - film - ca
 
 ## Getting Prints
 
-If I want good old-fashioned 6x4 prints, I use [FreePrints](https://www.freeprintsapp.co.uk/) or[SnapFish](https://www.snapfish.co.uk/).
+If I want good old-fashioned 6x4 prints, I use [FreePrints](https://www.freeprintsapp.co.uk/) or [SnapFish](https://www.snapfish.co.uk/).
 
 For a big print to go on my wall, I use [Whitewall](https://www.whitewall.com/).
