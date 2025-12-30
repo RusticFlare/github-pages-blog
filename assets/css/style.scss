@@ -5,6 +5,11 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+/* Remove black border */
+.site-header {
+  border-top: none;
+}
+
 /* Justify post text */
 .page-content p,
 .page-content li,
