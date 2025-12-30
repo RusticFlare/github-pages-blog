@@ -56,6 +56,13 @@ h2, h3 {
   text-align: left;
 }
 
+.page-content pre {
+  font-size: 0.95em;
+  overflow-x: auto !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
+}
+
 /* Styling for inline code inside paragraphs */
 .page-content p code {
   font-size: 0.9em;
