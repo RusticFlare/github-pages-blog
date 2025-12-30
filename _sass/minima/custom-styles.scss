@@ -1,0 +1,29 @@
+/* Settings for Playfair Display */
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+}
+
+/* Settings for Playfair Display */
+.post-title {
+  font-weight: 700;
+}
+
+/* Remove black border */
+.site-header {
+  border-top: none;
+}
+
+/* Justify post text */
+.page-content p,
+.page-content li,
+.site-footer p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Don't justify code */
+.page-content code,
+.page-content pre {
+  text-align: left;
+}
