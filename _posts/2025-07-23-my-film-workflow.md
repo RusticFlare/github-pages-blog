@@ -67,7 +67,7 @@ The album names have the format `number - film - camera`, so `43 - Ultramax - Co
 
 ## Physical Storage
 
-When the lab posts my negatives back to me, I transfer them into a [folder for negatives](https://amzn.eu/d/5ACQKzQ)with [negative archive sleeves](https://amzn.eu/d/bJnWvNX).
+When the lab posts my negatives back to me, I transfer them into a [folder for negatives](https://amzn.eu/d/5ACQKzQ) with [negative archive sleeves](https://amzn.eu/d/bJnWvNX).
 
 _**Note:** Some labs send you 10 strips of 4, others 7 strips of 6. Make sure to buy the right [negative archive sleeves](https://amzn.eu/d/bJnWvNX)._
 
