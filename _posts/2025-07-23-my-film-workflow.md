@@ -2,7 +2,7 @@
 title: "🎞️ My Film Workflow"
 date: 2025-07-23 09:00:00 +1
 author: James Baker
-modified_date: 2025-08-01 18:40:00 +1
+modified_date: 2025-12-30 23:10:00
 ---
 
 What I do with a roll of film after I've finished taking pictures.
@@ -69,7 +69,7 @@ The album names have the format `number - film - camera`, so `43 - Ultramax - Co
 
 When the lab posts my negatives back to me, I transfer them into a [folder for negatives](https://amzn.eu/d/5ACQKzQ) with [negative archive sleeves](https://amzn.eu/d/bJnWvNX).
 
-_**Note:** Some labs send you 10 strips of 4, others 7 strips of 6. Make sure to buy the right [negative archive sleeves](https://amzn.eu/d/bJnWvNX)._
+> **Note:** Some labs send you 10 strips of 4, others 7 strips of 6. Make sure to buy the right [negative archive sleeves](https://amzn.eu/d/bJnWvNX).
 
 Each sleeve is labeled in the same way as the digital album (`number - film - camera`).
 
