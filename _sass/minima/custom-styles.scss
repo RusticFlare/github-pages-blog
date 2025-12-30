@@ -1,29 +1,89 @@
-/* Settings for Playfair Display */
-h1, h2, h3 {
+/* Typography refinements for Playfair Display headings */
+h1 {
   letter-spacing: -0.01em;
   line-height: 1.2;
+  font-weight: 700;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+h2, h3 {
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  font-weight: 600;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
 }
 
-/* Settings for Playfair Display */
+/* Post title styling to make it stand out */
 .post-title {
   font-weight: 700;
+  letter-spacing: -0.015em;
+  margin-bottom: 1.5rem;
 }
 
-/* Remove black border */
+/* Remove the default thin black border at the top */
 .site-header {
   border-top: none;
 }
 
-/* Justify post text */
+/* Constrain and center the main content for readability */
+.page-content {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  /* Slightly larger font size and increased line height for better legibility */
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Responsive increase in font size on larger screens */
+@media (min-width: 48em) {
+  .page-content {
+    font-size: 1.1rem;
+  }
+}
+
+/* Justify paragraph and list text */
 .page-content p,
 .page-content li,
 .site-footer p {
   text-align: justify;
   hyphens: auto;
+  hyphenate-limit-chars: 6 3 3;
+  hanging-punctuation: first last;
 }
 
-/* Don't justify code */
+/* Prevent code blocks and inline code from being justified */
 .page-content code,
 .page-content pre {
   text-align: left;
+}
+
+/* Styling for inline code inside paragraphs */
+.page-content code {
+  font-size: 0.95em;
+  padding: 0.15em 0.3em;
+  border-radius: 4px;
+}
+
+/* Rounded corners on preformatted code blocks */
+.page-content pre {
+  border-radius: 6px;
+}
+
+/* Calmer, more refined link styling */
+a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  text-decoration-thickness: 0.12em;
+}
+
+/* Slight de-emphasis of the footer */
+.site-footer {
+  font-size: 0.9rem;
+  opacity: 0.85;
 }
