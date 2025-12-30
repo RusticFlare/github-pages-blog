@@ -51,12 +51,8 @@ h2, h3 {
 }
 
 /* Prevent code blocks and inline code from being justified */
-.page-content code,
-.page-content pre {
+.page-content pre code {
   text-align: left;
-}
-
-.page-content pre {
   font-size: 0.95em;
   overflow-x: auto !important;
   max-width: 100% !important;
