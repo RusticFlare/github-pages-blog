@@ -34,12 +34,6 @@ h2, h3 {
   border-top: none;
 }
 
-/* Constrain and center the main content for readability */
-.page-content {
-  margin-left: auto;
-  margin-right: auto;
-}
-
 /* Justify paragraph and list text */
 .page-content p,
 .page-content li,
@@ -48,25 +42,4 @@ h2, h3 {
   hyphens: auto;
   hyphenate-limit-chars: 6 3 3;
   hanging-punctuation: first last;
-}
-
-/* Prevent code blocks and inline code from being justified */
-.page-content p code {
-  text-align: left;
-  font-size: 0.9em;
-}
-
-/* Calmer, more refined link styling */
-a {
-  text-decoration-thickness: 0.08em;
-  text-underline-offset: 0.15em;
-}
-
-a:hover {
-  text-decoration-thickness: 0.12em;
-}
-
-pre code {
-  display: block;
-  overflow-x: auto;
 }
