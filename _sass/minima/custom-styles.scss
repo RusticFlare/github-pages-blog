@@ -65,3 +65,8 @@ a {
 a:hover {
   text-decoration-thickness: 0.12em;
 }
+
+pre code {
+  display: block;
+  overflow-x: auto;
+}
