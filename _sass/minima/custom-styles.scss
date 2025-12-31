@@ -51,16 +51,8 @@ h2, h3 {
 }
 
 /* Prevent code blocks and inline code from being justified */
-.page-content pre code {
-  text-align: left;
-  font-size: 0.95em;
-  overflow-x: auto !important;
-  max-width: 100% !important;
-  box-sizing: border-box;
-}
-
-/* Styling for inline code inside paragraphs */
 .page-content p code {
+  text-align: left;
   font-size: 0.9em;
 }
 
