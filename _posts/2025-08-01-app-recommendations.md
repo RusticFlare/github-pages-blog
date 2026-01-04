@@ -20,7 +20,7 @@ There's also [Brave Search](https://search.brave.com/), a privacy focused altern
 
 Signal is a non-profit encrypted messaging app. Think WhatsApp, without the ties to Meta/Facebook.
 
-WhatsApp collect data about you, your device, and your contacts. This is because they make money by using your data to taget adverts at you.
+WhatsApp collect data about you, your device, and your contacts. This is because they make money by using your data to target adverts at you.
 
 Signal collects much less data about you (just your phone number), because they make money through donations.
 
